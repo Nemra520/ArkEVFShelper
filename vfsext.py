@@ -123,7 +123,7 @@ def process_bundle(json_path, chk_folder, output_base):
 def main():
     """主函数"""
     print("="*60)
-    print("明日方舟: 终末地 BLC文件提取工具")
+    print("BLC文件提取工具")
     print("="*60)
     
     # 选择文件夹
@@ -158,3 +158,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
